@@ -2,6 +2,7 @@
 
 ## Introduction
 A simple and interactive Slot Machine Game written in Python. This game simulates a classic slot machine where users can bet on multiple lines and spin to win based on the combination of symbols.
+- 🌐 Website coming soon...
 
 ## Features
 - User can deposit a custom amount of money.
@@ -23,10 +24,15 @@ A simple and interactive Slot Machine Game written in Python. This game simulate
 - The amount of each symbol in the game varies: A (2), B (4), C (6), D (8).
 - Winnings are calculated based on the combination of symbols on bet lines.
 
-## Installation
+## Installation to PLAY!
 To play the game, you need to have Python installed on your machine.
 
 1. Clone or download this repository.
 2. Navigate to the directory containing the game.
 3. Run the game using a Python interpreter:
+
+## Contributing
+Feel free to fork the project and submit pull requests. You can also open issues for bugs and feature requests. Together we can launch the Slot Machine Game into a running webite for all to enjoy.
+
+Enjoy the game and may luck be on your side!
 
